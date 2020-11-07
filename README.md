@@ -1,4 +1,4 @@
-# Image_Processing#
+# Image_Processing
 Contain basics:
 * Reading BMP files
 * Basic image operations (This is a assignment from Princeton University Assignment Computer Graphics Course):
