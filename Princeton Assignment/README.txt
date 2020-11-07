@@ -1,4 +1,4 @@
-This directory contains skeleton code as a starting point for the challenge.
+This directory contains skeleton code as a starting point for the assignment.
 
 FILE STRUCTURE
 ==============
@@ -26,37 +26,17 @@ src/ - Directory with source code.
     jpeg/ - A library for reading/writing JPEG files.  Built automatically.
     fglut/ - A library for creating windows for OpenGL rendering (used by morphlines).
 
-HOW TO PROCEED
-==============
 
-1. Read COMPILER.txt and install a C++ compiler on your development machine.
-
-2. If you are using Visual Studio, open the .sln file, and build the solution.
-Otherwise, cd into the "src" directory, and type "make".
-
-3. Implement the R2Image methods in R2Image.cpp.  You will need to
+1. Implement the R2Image methods in R2Image.cpp.  You will need to
 read the R2Image.h and R2Pixel.h files to find out about the methods
 implemented for these classes.  
 
-4. Recompile the code.
+2. Recompile the code.
 
-5. Run your code. On Unix/Mac/Cygwin, change into the main assignment
+3. Run your code. On Unix/Mac/Cygwin, change into the main assignment
 directory (not the src/ subdirectory), alter the Makefile file (already done) to
 generate intended output, and run "make". With Visual Studio, alter the 
 NMakefile file to generate the intended output, open the "Visual Studio 
 Command Prompt", change into the main assignment directory 
 (not the src/ subdirectory) and run "nmake /f NMakefile".
-
-		**IMPORTANT**
-You don't need to edit the Makefile / NMakefile in either the src or root directory unless you want to test anything extra.
-		**IMPORTANT**
-
-Look for the output files in the output/ subdirectory.
-
-6. Edit writeup.html (if you want to add anything extra) to add a description of, and links to, the images
-you just created.  Open writeup.html in a web browser to see the webpage.
-
-7. Create a .zip file containing the contents of this directory.
-
-8. Submit it at the Dropbox link - https://www.dropbox.com/request/40ndMMef2wwavrZwgEfm
 
