@@ -8,5 +8,5 @@ Contain basics:
     * Image Sharpening
     * Edge Detection
     * Interpolation (Bilinear, Gaussian, Linear)
-(All above image functions are implement in src/R2Image.cpp)
+    ''(All above image functions are implement in src/R2Image.cpp)''
      
